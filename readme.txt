@@ -26,3 +26,5 @@ Column 7 is the distance (in Anstrom) between the two atoms.
 See 4llx.npy as an example for this file.
 
 Numpy and PyTorch are required to run this code.
+
+Unlimited Open Source - BSD 3-clause Distribution LLNL-CODE-815696
